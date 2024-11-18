@@ -1,0 +1,19 @@
+{
+  "name": "codica-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "codica-jest"
+  },
+  "author": "SebastianAguilar12",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
